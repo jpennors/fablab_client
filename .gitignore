@@ -1,2 +1,3 @@
 config/env.ini
 main.py
+__pycache__/
